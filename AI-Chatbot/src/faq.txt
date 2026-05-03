@@ -1,0 +1,6 @@
+hi=Hello 👋
+hello=Hi there 😄
+java=Java is a programming language ☕
+ai=AI means Artificial Intelligence 🤖
+name=I am your AI chatbot 😎
+bye=Goodbye! 👋

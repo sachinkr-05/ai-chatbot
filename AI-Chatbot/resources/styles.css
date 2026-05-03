@@ -1,0 +1,40 @@
+.root {
+    -fx-background-color: #0f172a;
+    -fx-font-family: "Segoe UI", Arial;
+}
+
+/* Input box */
+.text-field {
+    -fx-background-color: #1e293b;
+    -fx-text-fill: white;
+    -fx-background-radius: 10;
+    -fx-padding: 8;
+}
+
+/* Button */
+.button {
+    -fx-background-color: #22c55e;
+    -fx-text-fill: white;
+    -fx-background-radius: 10;
+    -fx-padding: 8 15;
+}
+
+.button:hover {
+    -fx-background-color: #16a34a;
+}
+
+/* User message */
+.user-bubble {
+    -fx-background-color: #22c55e;
+    -fx-text-fill: white;
+    -fx-padding: 10;
+    -fx-background-radius: 15;
+}
+
+/* Bot message */
+.bot-bubble {
+    -fx-background-color: #1e293b;
+    -fx-text-fill: white;
+    -fx-padding: 10;
+    -fx-background-radius: 15;
+}
